@@ -2,7 +2,7 @@
 
 **Premissa**
 > Nosso novo cliente possui cinco lojas de artigos diversos e precisa de um software que permita ele cadastrar os produtos do seu estoque.
-> Os produtos podem ser cadastrados através de uma interface ou API já hoje ele controla via planilha o estoque e a cada novo cadastro de produto, deverá enviar um email para o gestor da empresa, porém, em caso de alteração deverá postar via json para uma determinada api.
+> Os produtos podem ser cadastrados através de uma interface ou API. Hoje ele controla via planilha o estoque. Cada novo cadastro de produto, deverá enviar um email para o gestor da empresa, porém, em caso de alteração deverá postar via json para uma determinada api.
 
 ### Especificação
 #### Produtos
@@ -64,4 +64,4 @@
 - As alterações realizadas após este prazo não serão avaliadas
 - Commit o seu projeto neste mesmo projeto github
 - Crie um arquivo **Respostas.md** com as respostas das questões e os passos para compilar/executar a aplicação
-- Qualquer dúvida, entre em contato pelo email: [dev@xamasistemas.com.br](mailto:dev@xamasistemas.com.br)
+- Qualquer dúvida, entre em contato pelo email: [xama@xamasistemas.com.br](mailto:xama@xamasistemas.com.br)
